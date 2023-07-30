@@ -1,4 +1,8 @@
 {
     "codetogether.virtualCursorJoin": "ownVirtualCursor",
-    "codetogether.virtualCursorRemember": true
+    "codetogether.virtualCursorRemember": true,
+    "files.associations": {
+        "camerauicontrol.h": "c",
+        "stdlib.h": "c"
+    }
 }
