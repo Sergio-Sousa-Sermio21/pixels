@@ -3,6 +3,7 @@
     "codetogether.virtualCursorRemember": true,
     "files.associations": {
         "camerauicontrol.h": "c",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "errno.h": "c"
     }
 }
