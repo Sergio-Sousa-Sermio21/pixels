@@ -1,1 +1,0 @@
-This folder is where the compiled executable(s) is(are) stored.

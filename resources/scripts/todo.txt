@@ -1,0 +1,5 @@
+Script A:
+    Compiles files from main to build and runs all tests in the "../src/build/tests/." folder if any exist.
+
+Script B:
+    Creates new version in "archive" and copies contents of folder "src" to it.
